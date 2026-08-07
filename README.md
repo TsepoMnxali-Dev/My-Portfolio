@@ -2,7 +2,7 @@
 
 ### Full-Stack Developer | Information Technology Student | Software Engineer
 
-I'm a Bachelor of Information Technology student and a software engineer who enjoys building practical software, learning how systems work, and turning ideas into working applications.
+I'm a Bachelor of Information Technology Final year student and a software engineer who enjoys building practical software, learning how systems work, and turning ideas into working applications.
 
 I'm currently focused on strengthening my skills in **C#, ASP.NET, SQL, JavaScript, HTML, CSS, Git, and software design**.
 
