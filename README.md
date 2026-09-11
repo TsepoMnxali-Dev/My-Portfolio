@@ -7,6 +7,8 @@ I'm a Bachelor of Information Technology Final year student and a software engin
 I'm currently focused on strengthening my skills in **C#, ASP.NET, SQL, JavaScript, HTML, CSS, Git, and software design**.
 
 ---
+## 🌐 View My Portfolio
+<p align="center"> <a href="https://tsepomnxali-dev.github.io/My-Portfolio/" target="_blank" > 🔗 <strong>Link to My Portfolio</strong> </a> </p>
 
 ## 🚀 About Me
 
